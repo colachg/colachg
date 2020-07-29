@@ -1,4 +1,4 @@
-###  Hi there 👋, I'm Cola.Chen.
+###  Hi there 👋, I'm Cola Chen.
 
 - 🔭 I’m currently working in Trantect.
 - 🌱 I’m currently learning English and Golang.
