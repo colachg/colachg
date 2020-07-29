@@ -1,6 +1,6 @@
 ###  Hi there 👋, I'm Cola.Chen.
 
-- 🔭 I’m currently working on Trantect.
+- 🔭 I’m currently working in Trantect.
 - 🌱 I’m currently learning English and Golang.
 
 <!---
@@ -10,4 +10,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
