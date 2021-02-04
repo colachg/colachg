@@ -1,6 +1,6 @@
 ###  Hi there 👋, I'm Cola Chen.
 
-- 🔭 I’m currently working in Trantect.
+- 🔭 I’m currently working at Alauda as a SRE.
 - 🌱 I’m currently learning English and Golang.
 
 <!---
