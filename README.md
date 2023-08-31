@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently a freelancer looking for a good job.
 
-- 🌱 I’m currently learning English and Japanese(できません). 
+- 🌱 I’m currently learning English and Japanese(簡単な会話ができます). 
 
 - ❤️ I like self hosting tools for daily using.  
